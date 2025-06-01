@@ -1567,10 +1567,6 @@
             "password": "997567"
         },
         {
-            "phone": "15318537297",
-            "password": "997567"
-        },
-        {
             "phone": "13162124883",
             "password": "997567"
         },
@@ -3077,6 +3073,11 @@
     ],
     "yiqiangwan": [],
     "qiangshi": [],
-    "qiangwu": [],
+    "qiangwu": [
+        {
+            "phone": "15318537297",
+            "password": "997567"
+        }
+    ],
     "qiangyilingwu": []
 }
