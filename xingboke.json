@@ -1,179 +1,154 @@
 {
     "quan": [
         {
-            "phone": "15318960300",
-            "password": "678910",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "phone": "13313054220",
+            "password": "200215",
+            "uid": ""
+        },
+        {
+            "phone": "17736501913",
+            "password": "000915",
+            "uid": ""
+        },
+        {
+            "phone": "18929912520",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "18929990456",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "18929990170",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "17722775767",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "18126662834",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "18126668234",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "18138912456",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "15326022503",
+            "password": "060510",
+            "uid": ""
+        },
+        {
+            "phone": "17384924874",
+            "password": "258369",
+            "uid": ""
         },
         {
             "phone": "19370600732",
             "password": "320302",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "18021294168",
             "password": "030401",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "18136197985",
             "password": "030401",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19355993028",
             "password": "340827",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "17319453012",
             "password": "010307",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "17716416708",
             "password": "105106",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19960753590",
             "password": "030624",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19050789148",
             "password": "110909",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "18155197183",
             "password": "578686",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "18174881903",
             "password": "123450",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19951158168",
             "password": "030401",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19066798209",
             "password": "030401",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19176824342",
             "password": "340827",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19306497437",
             "password": "123450",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "18912699985",
             "password": "030401",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "13365457859",
             "password": "123450",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "19172399673",
             "password": "770880",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "19972850696",
-            "password": "770880",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
         },
         {
             "phone": "15334005063",
             "password": "770880",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
+            "uid": ""
+        },
+        {
+            "phone": "19972850696",
+            "password": "770880",
+            "uid": ""
         }
-    ],
-    "luron": [
-        {
-            "phone": "15318960300",
-            "password": "678910",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "17788709020",
-            "password": "450718",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "18168012392",
-            "password": "031220",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "19120010005",
-            "password": "450718",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "17700791400",
-            "password": "450718",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "19374844858",
-            "password": "450718",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "13317854051",
-            "password": "450718",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        },
-        {
-            "phone": "17790697055",
-            "password": "520533",
-            "uid": "UID_pT7ifPmHs5ewHZcNXE9saeXCCopf" 
-        }
-	],
-    "yiqiangwan": [],
-    "qiangshi": [
-        {
-            "phone": "15318960300",
-            "password": "678910"
-        },
-        {
-            "phone": "18958646242",
-            "password": "041412"
-        },
-        {
-            "phone": "18177364644",
-            "password": "140201"
-        },
-        {
-            "phone": "15374909787",
-            "password": "221819"
-        },
-        {
-            "phone": "19313214836",
-            "password": "267117"
-        },
-        {
-            "phone": "18864273585",
-            "password": "188585"
-        },
-        {
-            "phone": "17363342317",
-            "password": "543658"
-        }
-    ],
-    "qiangwu": [],
-    "qiangyilingwu": []
+    ]
 }
