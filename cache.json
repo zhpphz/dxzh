@@ -9346,5 +9346,24 @@
         "memberType": "",
         "operator": "",
         "isNewUser": "0"
+    },
+    "18039573562": {
+        "phoneNbr": "18039573562",
+        "token": "V1.0Z4OiavezXsar8Tm+RBahL6JRwzWKfWgbMNp4sJ3CZtD8up+y3mV4Q0Bubb5H4DssIPMDR7O/IFBuce3GGcLXSpk0SH97lNmwIQTdmPtsMFFMM6xFZ7y9TgZ4xiL+pcMQVQOhJ2oUsDt97FpvIsgc0yjeSDIo4FtELFbrykAVOjY=",
+        "userId": "2022072000164199453",
+        "userType": "1",
+        "isDirectCon": "1",
+        "phoneType": "69",
+        "provinceCode": "609904",
+        "cityCode": "8410100",
+        "provinceName": "河南",
+        "cityName": "郑州",
+        "areaCode": "0371",
+        "nativeNet": "201",
+        "netType": "1",
+        "accessToken": null,
+        "memberType": "0",
+        "operator": "",
+        "isNewUser": "0"
     }
 }
