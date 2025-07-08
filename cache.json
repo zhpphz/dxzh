@@ -5967,11 +5967,11 @@
     },
     "19928667829": {
         "phoneNbr": "19928667829",
-        "token": "V1.06xIIFt50/dtrb4lW0+3r6cYhxl/eJhrFCE2htuQXRgeG1prqDxZM7ZqTFDwRgRsXp0uIlnACy8bpmaNJYU6ueMEV2ClaQCLxLUjTb/9lSsA0971x+tt0c6JGkXNyEIOWG00a42MNFsayOoyoVC9e7NJYmKRDUObFPvm6PQExnxc=",
+        "token": "V1.0pqIF33ifHHbSmMdsH8IliqJRwzWKfWgbMNp4sJ3CZtCwkL+pXul9tuk5olVPQ6X8xCsJHhmOwrtN83kiaR+d0Jk0SH97lNmwIQTdmPtsMFGLf9scMzZXHoxghepm9MvPdf8b++4EXwTkMHA4WxjTEMAiTlabE9sI/TmtkOMR+2c=",
         "userId": "2022072000355667585",
         "userType": "1",
         "isDirectCon": "1",
-        "phoneType": "69",
+        "phoneType": null,
         "provinceCode": "600101",
         "cityCode": "8445300",
         "provinceName": "广东",
