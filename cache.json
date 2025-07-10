@@ -10429,5 +10429,24 @@
         "memberType": "0",
         "operator": "",
         "isNewUser": "0"
+    },
+    "18778524541": {
+        "phoneNbr": "18778524541",
+        "token": "V1.0oKJPc7RRVrsbUQTWysxRvaJRwzWKfWgbMNp4sJ3CZtBUstp+NP6YgESpdl3S3CBgHcnQcNwfRybJQ0PQmzX/YZk0SH97lNmwIQTdmPtsMFGuIVLYa2j1YKbbovtFv3amiI5uktE0St3pQsRHIfYLtS0WLHyznc/nvwwM6P/TVI4=",
+        "userId": "2022072000410953173",
+        "userType": "1",
+        "isDirectCon": "1",
+        "phoneType": "69",
+        "provinceCode": "600302",
+        "cityCode": "8450900",
+        "provinceName": "广西",
+        "cityName": "玉林",
+        "areaCode": "0775",
+        "nativeNet": "201",
+        "netType": "0",
+        "accessToken": null,
+        "memberType": "",
+        "operator": "",
+        "isNewUser": "1"
     }
 }
