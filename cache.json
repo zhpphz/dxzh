@@ -10562,5 +10562,24 @@
         "memberType": "",
         "operator": "",
         "isNewUser": "0"
+    },
+    "19081353750": {
+        "phoneNbr": "19081353750",
+        "token": "V1.0oOGj546mzxxmO5O7XH1kWaJRwzWKfWgbMNp4sJ3CZtBh7n3hd8cc8pPFbRc9AwuI0JgHf+V+svQxv6St/0CYzJk0SH97lNmwIQTdmPtsMFGuIVLYa2j1YKbbovtFv3amkxupbcTmk7X0LlQZdIMQNu1UTI7k8www8/5/ni+TKSo=",
+        "userId": "2022072000412778697",
+        "userType": "1",
+        "isDirectCon": "1",
+        "phoneType": "6",
+        "provinceCode": "600201",
+        "cityCode": "8511600",
+        "provinceName": "四川",
+        "cityName": "广安",
+        "areaCode": "0826",
+        "nativeNet": "201",
+        "netType": "0",
+        "accessToken": null,
+        "memberType": "",
+        "operator": "",
+        "isNewUser": "1"
     }
 }
