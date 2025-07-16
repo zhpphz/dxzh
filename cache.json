@@ -3231,7 +3231,7 @@
     },
     "15360696207": {
         "phoneNbr": "15360696207",
-        "token": "V1.07tlZ46aWOIfcqeNZDHr+1cYhxl/eJhrFCE2htuQXRgcxk7fhXufJo/W8v8X8H2PBAMx4b9bOXs2U3skIXrr3nMEV2ClaQCLxLUjTb/9lSsA0971x+tt0c6JGkXNyEIOWaG32wCjvgR9VdUtLz8jZTwilg8oxHPGohSIygi/UEgw=",
+        "token": "V1.0wW6ajmE0ntUIgL/Dj2LTaKJRwzWKfWgbMNp4sJ3CZtAgTcOplKl2FamJrFYYjKFZLdnPI+3vK4LjDUEqR34Rnpk0SH97lNmwIQTdmPtsMFENInBnEQHEsZkjcx+n6+DjdbDKUECdJf2ofp99a0d/XF7iUMAcSC9FS/iZ/yGjH3E=",
         "userId": "2022072000273561952",
         "userType": "1",
         "isDirectCon": "1",
@@ -4941,7 +4941,7 @@
     },
     "17377841305": {
         "phoneNbr": "17377841305",
-        "token": "V1.0bMVcczMEMTKD6Wu+Pzy+/aJRwzWKfWgbMNp4sJ3CZtD+Wj4B8ttPmPp//M8GjkQyLdnPI+3vK4LjDUEqR34Rnpk0SH97lNmwIQTdmPtsMFFMM6xFZ7y9TgZ4xiL+pcMQu/+jyjsjhfUw12fTB4eUiXy888W2f4ec7mAGf1PmjpY=",
+        "token": "V1.0bMVcczMEMTKD6Wu+Pzy+/aJRwzWKfWgbMNp4sJ3CZtALsswA0gB9iMBTG3z5Bi0PyVTwbV8XBgFJrJ0N9/pVNJk0SH97lNmwIQTdmPtsMFFMM6xFZ7y9TgZ4xiL+pcMQ903PR84YjElaKLYw79O4NfuvWGOJp6jqCu05SZHF6bo=",
         "userId": "2022072000162605257",
         "userType": "1",
         "isDirectCon": "1",
@@ -6803,11 +6803,11 @@
     },
     "13373157925": {
         "phoneNbr": "13373157925",
-        "token": "V1.0jaZji3fuj6cuqEBmUQdwqMYhxl/eJhrFCE2htuQXRge78Cd0wKfAHIMWgyeDMu3X7kjcd4HoMr/9sVOp4MEyh8EV2ClaQCLxLUjTb/9lSsA0971x+tt0c6JGkXNyEIOWXtdF8ykGbbsp4p86nkutVKLPAHsJ/i0l9XnZfMLcGJk=",
+        "token": "V1.0WangXp3mSMO+GOQb0/uEOaJRwzWKfWgbMNp4sJ3CZtAEaQyPH+C6Z+2byWvH1sYlti/WPrAse8ZQPIppONI4V5k0SH97lNmwIQTdmPtsMFGLf9scMzZXHoxghepm9MvPzBRuhELNYiSY1p4etwboBmSbkTejl5ytZRYnKeV9PLk=",
         "userId": "2022072000335931216",
         "userType": "1",
         "isDirectCon": "1",
-        "phoneType": "69",
+        "phoneType": null,
         "provinceCode": "609906",
         "cityCode": "8130200",
         "provinceName": "河北",
@@ -8627,7 +8627,7 @@
     },
     "19033610881": {
         "phoneNbr": "19033610881",
-        "token": "V1.0ecqwwxVkBmTaEeXPSt/Mp6JRwzWKfWgbMNp4sJ3CZtCx8ZBK3ljcnGzhxwQw5PiPzCCW/UHO1RGovEbItBan8Zk0SH97lNmwIQTdmPtsMFFMM6xFZ7y9TgZ4xiL+pcMQulk4CzPkVc0Cq3A/kkcOJK8otbZLJpru0IE2HU1pU+s=",
+        "token": "V1.0ecqwwxVkBmTaEeXPSt/Mp6JRwzWKfWgbMNp4sJ3CZtB63UxKrsLoRcaWnGGbMFZ/4tiuVQgYnpcv55XRBT63rpk0SH97lNmwIQTdmPtsMFFMM6xFZ7y9TgZ4xiL+pcMQuzFw9l5Rcq8ro0RGE3PEKB4WJZhtzzZv8TRf0yOOtvM=",
         "userId": "2022072000155779486",
         "userType": "1",
         "isDirectCon": "1",
@@ -9235,7 +9235,7 @@
     },
     "15386478839": {
         "phoneNbr": "15386478839",
-        "token": "V1.0sXB0hDZB4c3KYl0VE09tD6JRwzWKfWgbMNp4sJ3CZtCt4m4BoPrBd/xg0tZUneR62g9JbrVeLhQM8WlgiejP9Zk0SH97lNmwIQTdmPtsMFGuIVLYa2j1YKbbovtFv3amZdR/Ji/upBtwdrkMstRRLKkHd9H84S2heaJ5WfaFB5E=",
+        "token": "V1.0sXB0hDZB4c3KYl0VE09tD6JRwzWKfWgbMNp4sJ3CZtDk5qDOd5CjG/N+RP66dmxEUJXqTrCa7gmODhb/Thp7Ypk0SH97lNmwIQTdmPtsMFGuIVLYa2j1YKbbovtFv3amaMJh0w10RX68Qoh9mNas+py/hgkzDQCKF6JvJNzRdw8=",
         "userId": "2022072000402825352",
         "userType": "1",
         "isDirectCon": "1",
@@ -9250,7 +9250,7 @@
         "accessToken": null,
         "memberType": "",
         "operator": "",
-        "isNewUser": "1"
+        "isNewUser": "0"
     },
     "15382391043": {
         "phoneNbr": "15382391043",
